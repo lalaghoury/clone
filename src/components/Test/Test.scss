@@ -1,0 +1,15 @@
+.test {
+  width: 100%;
+  min-height: 100vh;
+  padding: 0 120px;
+  max-width: 1440px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 70px;
+
+  .img{
+    width: 500px;
+  }
+}
